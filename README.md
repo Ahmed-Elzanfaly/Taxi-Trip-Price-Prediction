@@ -1,5 +1,4 @@
 # Taxi-Trip-Price-Prediction
-# Taxi Trip Price Prediction
 
 ## Project Overview
 
